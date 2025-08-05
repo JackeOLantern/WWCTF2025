@@ -16,7 +16,7 @@ EN Version
 "<!-- d1d_y0u_kn0w_tH3_pow3r_0f_W@gner?4b84gb5v783439u392093hr2b293rv3f283ru2bf3 -->"
 
 The flag :
-wwf{<font color="gray">{d1d_y0u_kn0w_tH3_pow3r_0f_W@gner?4b84gb5v783439u392093hr2b293rv3f283ru2bf3</font>}
+wwf{<font color="gray">d1d_y0u_kn0w_tH3_pow3r_0f_W@gner?4b84gb5v783439u392093hr2b293rv3f283ru2bf3</font>}
 
 
 ## Features
