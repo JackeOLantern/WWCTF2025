@@ -14,6 +14,8 @@ Suggested disclaimer to place atop this offered challenge : **Stretch**.
 ![image](assets/images/execution.png)
 ![image](assets/images/tea.png)
 ![image](assets/images/stretching.jpg)
+![image](assets/images/reversing.jpg)
+
 ### The TEA reverse decoding covers this hidden philosophical sentence. 
 
 "<!-- From_The_xxxxx_To_The_xxx_Pzzzzzzzz_yyyy_Be_Free GitHub -->"
@@ -23,7 +25,9 @@ wwf{<font color="gray">From_The_xxxxx_To_The_xxx_Pzzzzzzzz_yyyy_Be_Free</font>}
 
 
 ## Features
-Reverse topic accessible through Ghidra decompiling environment.🖼️ 
+Reverse topic accessible through Ghidra decompiling environment.
+
+_This theme includes a contested phrase. Its inclusion is solely for reverse-engineering practice and does not endorse any political position._🖼️ 
 
 ## Installation
 
