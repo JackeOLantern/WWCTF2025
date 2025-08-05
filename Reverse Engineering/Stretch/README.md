@@ -16,10 +16,10 @@ Suggested disclaimer to place atop this offered challenge : **Stretch**.
 ![image](assets/images/stretching.jpg)
 ### The TEA reverse decoding covers this hidden philosophical sentence. 
 
-"<h2><span style="color:transparent">From_The_River_To_The_Sea_Palestine_Will_Be_Free</h2></span>"
+"<!-- From_The_xxxxx_To_The_xxx_Pzzzzzzzz_yyyy_Be_Free GitHub -->"
 
 The flag :
-wwf{<font color="gray">From_The_River_To_The_Sea_Palestine_Will_Be_Free</font>}
+wwf{<font color="gray">From_The_xxxxx_To_The_xxx_Pzzzzzzzz_yyyy_Be_Free</font>}
 
 
 ## Features
