@@ -3,7 +3,7 @@ EN Version
 *Welcome to this World Wide CTF ed. 2025 Repository: Layered signatures*
 
 
-*Attention : A script *.PY : solved_layered_sig.py enables to retrieve the flag* [See WU Layered signatures.pdf]
+*Attention : A script *.PY : solved_layered_sig.py enables to generate two primes numbers p and q and  key without the need to decode a private key that is simply retrieved through operations then it allows to sign and get the flag that may be displayed* [See WU about Layered signatures.pdf]
 
 
 ## Statement of the subject
