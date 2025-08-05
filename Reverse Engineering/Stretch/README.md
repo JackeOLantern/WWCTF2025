@@ -15,7 +15,7 @@ _This challenge includes a convicts contested phrase. Its inclusion is solely fo
 ![image](assets/images/execution.png)
 ![image](assets/images/tea.png)
 ![image](assets/images/stretching.jpg)
-![image](assets/images/reversing.jpg)
+![image](assets/images/reversing.png)
 
 ### The TEA reverse decoding covers this hidden philosophical sentence. 
 
@@ -28,7 +28,7 @@ wwf{<font color="gray">From_The_xxxxx_To_The_xxx_Pzzzzzzzz_yyyy_Be_Free</font>}
 ## Features
 Reverse topic accessible through Ghidra decompiling environment.
 
-_This theme includes a contested phrase. Its inclusion is solely for reverse-engineering practice and does not endorse any political position._🖼️ 
+_The code of reverse is based on TEA (Tiny Encryption Algorithm)_🖼️ 
 
 ## Installation
 
