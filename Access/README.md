@@ -14,6 +14,8 @@ World Wide CTF: test your skills, learn fast, have fun.
 Play web, RE, crypto, forensics, OSINT, pwn, blockchain, and hardware.
 Kind beginners and experts both welcome...
 
+the first flag to be discovered is found directly on the Discord environment as provided by administrators (organizers).
+
 ## Installation
 
 1. **Clone the Repository** :
