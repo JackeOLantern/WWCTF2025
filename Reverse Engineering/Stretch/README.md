@@ -5,7 +5,8 @@ EN Version
 ## Controversy
 Suggested disclaimer to place atop this offered challenge : **Stretch**.
 
-*Caution : This challenge includes a convicts contested phrase. Its inclusion is solely for reverse-engineering practice and does not endorse any orientating opinion but just some neutral position.*[See WU Stretching.pdf]
+### Caution 
+_This challenge includes a convicts contested phrase. Its inclusion is solely for reverse-engineering practice and does not endorse any orientating opinion but just some neutral position._[See WU Stretching.pdf]
 
 
 ## Statement of the subject
