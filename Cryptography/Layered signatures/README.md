@@ -7,11 +7,11 @@ EN Version
 
 
 ## Statement of the subject
-![image](assets/images/solving.png)
+![image](assets/images/Solving.png)
 ![image](assets/images/execution.png)
 
 
-### The cryptographical algorith is exposed on the W-U. 
+### The cryptographical algorithm is exposed on the W-U. 
 
 "<!-- d1d_y0u_kn0w_tH3_pow3r_0f_W@gner?4b84gb5v783439u392093hr2b293rv3f283ru2bf3 -->"
 
@@ -20,7 +20,7 @@ wwf{<font color="gray">d1d_y0u_kn0w_tH3_pow3r_0f_W@gner?4b84gb5v783439u392093hr2
 
 
 ## Features
-Solving topic is easy through decrypting conditions.The resolution algorithm is based on : Schnorr/EdDSA and a number theory with cyclic groups and primes generators. See the descriptive file explaining the steps in *.PDF.🖼️ 
+Solving topic is easy through decrypting conditions.The resolution algorithm is based on : Schnorr/EdDSA and a number theory with cyclic groups and primes generators. See the descriptive file explaining the built steps in *.PDF.🖼️ 
 
 ## Installation
 
